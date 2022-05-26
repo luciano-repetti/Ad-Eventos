@@ -83,7 +83,7 @@ function addCards(date) {
         </div>
         <div class="container-fluid d-flex align-items-center justify-content-between mt-3">
             <p>price: $${date.price}</p>
-            <a href="../html/infocard.html?id=${date.id}">Ver mas</a>
+            <a href="./html/infocard.html?id=${date.id}">Ver mas</a>
         </div>
     </div>
     `
